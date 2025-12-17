@@ -1,1 +1,1 @@
-# Introduction to Urban Data Science
+# Week 3: Data visualization and Working with Spatial Data
