@@ -1,7 +1,7 @@
 # Introduction to Urban Data Science
 
-## CRP 4680/5680 and DESIGN 4680/5680
-## Cornell University
+CRP 4680/5680 and DESIGN 4680/5680
+Cornell University
 
 ### Course Description
 Urban data science is an emergent practice in geography and urban planning that combines: 1) the set of data analysis tools and methods used to understand a wide array of big data and big spatial data sources and, 2) questions of urban development, structure, complexity, theory, policy, dynamics, and outcomes. These approaches enable more spatiotemporally dynamic and granular analyses of cities and allow researchers new insight into urban dynamics.
