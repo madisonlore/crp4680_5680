@@ -1,6 +1,7 @@
 # Introduction to Urban Data Science
 
 CRP 4680/5680 and DESIGN 4680/5680
+
 Cornell University
 
 ### Course Description
